@@ -32,7 +32,7 @@
 
 ## Overview
 
-Vortherm is a complete CAD-to-CFD study of a compact double pipe heat exchanger whose inner tube follows a helical, swirled centreline instead of a straight axis. A hybrid **Al₂O₃–CuO–CNT nanofluid** flows through the swirled core as the hot stream, exchanging heat through a steel tube wall with plain water flowing countercurrently in the annular shell space.
+This Project is a complete CAD-to-CFD study of a compact double pipe heat exchanger whose inner tube follows a helical, swirled centreline instead of a straight axis. A hybrid **Al₂O₃–CuO–CNT nanofluid** flows through the swirled core as the hot stream, exchanging heat through a steel tube wall with plain water flowing countercurrently in the annular shell space.
 
 The full assembly, imported from SolidWorks, was solved in COMSOL Multiphysics as a steady, three dimensional, **conjugate heat transfer** problem: turbulent RANS flow (standard k–ε model) coupled to the energy equation across both fluid domains and the surrounding solid, with no assumed film coefficient anywhere in the model. Every reported performance number, heat duty, log mean temperature difference, overall conductance, and effectiveness, is either a direct field output or a hand calculation built on top of it and cross validated by two independent thermal design methods.
 
@@ -138,6 +138,18 @@ The full assembly, imported from SolidWorks, was solved in COMSOL Multiphysics a
     </td>
     <td align="center">
       <img width="394" height="191" alt="image" src="https://github.com/user-attachments/assets/789bb199-0b87-42e9-9151-8717cf292db2" />
+      <br />
+      <b style="color:white;">Temp & Inner Fluid Flow</b>
+    </td>
+  </tr>
+      <tr>
+    <td align="center">
+      <img width="334" height="194" alt="image" src="https://github.com/user-attachments/assets/3724ae6f-79e0-4212-ac3d-15b084d6b2b6" />
+      <br />
+      <b>Velocity Field</b>
+    </td>
+    <td align="center">
+      <img width="365" height="194" alt="image" src="https://github.com/user-attachments/assets/5d5d40cc-1710-4231-8fc5-8811480b2863" />
       <br />
       <b style="color:white;">Temp & Inner Fluid Flow</b>
     </td>
