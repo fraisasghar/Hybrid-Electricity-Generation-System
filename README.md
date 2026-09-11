@@ -3,26 +3,27 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14181f,100:7a2e2e&height=210&section=header&text=Swirled%20Tubes%20Heat%20Exchanger&fontSize=46&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=CAD%20Design%20|%20Conjugate%20Heat%20Transfer%20|%20Turbulent%20CFD%20|%20Hybrid%20Nanofluid%20|%20COMSOL%20Multiphysics&descAlign=50&descAlignY=68&descSize=18&descColor=cbb9a8&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a2e2e,100:c17817&height=210&section=header&text=Swirled%20Tubes%20Heat%20Exchanger&fontSize=46&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=CAD%20Design%20|%20Conjugate%20Heat%20Transfer%20|%20Turbulent%20CFD%20|%20Hybrid%20Nanofluid%20|%20COMSOL%20Multiphysics&descAlign=50&descAlignY=68&descSize=18&descColor=e8d8c3&shadow=true" alt="Header" />
 </div>
 
 <h3 align="center">CAD Design and CFD Simulation of a Helically Swirled Tube Heat Exchanger Cooled by a Hybrid Nanofluid</h3>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Simulated-7a2e2e?style=for-the-badge&labelColor=14181f&logo=comsol&logoColor=cbb9a8" />
-  <img src="https://img.shields.io/badge/CFD-COMSOL%20Multiphysics-7a2e2e?style=for-the-badge&labelColor=14181f&logo=vercel&logoColor=cbb9a8" />
-  <img src="https://img.shields.io/badge/Turbulence-k--%CE%B5%20RANS-7a2e2e?style=for-the-badge&labelColor=14181f&logo=windowsterminal&logoColor=cbb9a8" />
-  <img src="https://img.shields.io/badge/Coupling-Conjugate%20Heat%20Transfer-7a2e2e?style=for-the-badge&labelColor=14181f&logo=thunderbird&logoColor=cbb9a8" />
+  <img src="https://img.shields.io/badge/Status-Simulated-7a2e2e?style=for-the-badge&labelColor=2b2b2b&logo=comsol&logoColor=f2c9c9" />
+  <img src="https://img.shields.io/badge/CFD-COMSOL%20Multiphysics-1b3a5c?style=for-the-badge&labelColor=2b2b2b&logo=vercel&logoColor=bcd4ea" />
+  <img src="https://img.shields.io/badge/Turbulence-k--%CE%B5%20RANS-1e4620?style=for-the-badge&labelColor=2b2b2b&logo=windowsterminal&logoColor=bfe0c2" />
+  <img src="https://img.shields.io/badge/Coupling-Conjugate%20Heat%20Transfer-4a2c6d?style=for-the-badge&labelColor=2b2b2b&logo=thunderbird&logoColor=d8c6ea" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coolant-Hybrid%20Nanofluid-1b263b?style=for-the-badge&labelColor=14181f&logo=molecule&logoColor=cbb9a8" />
-  <img src="https://img.shields.io/badge/Effectiveness-75.3%25-2c4870?style=for-the-badge&labelColor=14181f&logo=speedtest&logoColor=cbb9a8" />
-  <img src="https://img.shields.io/badge/Domains-12-1b263b?style=for-the-badge&labelColor=14181f&logo=googleearth&logoColor=cbb9a8" />
-  <img src="https://img.shields.io/badge/License-MIT-8a6d1d?style=for-the-badge&labelColor=14181f&logo=opensourceinitiative&logoColor=cbb9a8" />
+  <img src="https://img.shields.io/badge/Coolant-Hybrid%20Nanofluid-1b3a5c?style=for-the-badge&labelColor=2b2b2b&logo=molecule&logoColor=bcd4ea" />
+  <img src="https://img.shields.io/badge/Effectiveness-75.3%25-1e4620?style=for-the-badge&labelColor=2b2b2b&logo=speedtest&logoColor=bfe0c2" />
+  <img src="https://img.shields.io/badge/Domains-12-4a2c6d?style=for-the-badge&labelColor=2b2b2b&logo=googleearth&logoColor=d8c6ea" />
+  <img src="https://img.shields.io/badge/License-MIT-8a6d1d?style=for-the-badge&labelColor=2b2b2b&logo=opensourceinitiative&logoColor=f0dfa8" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:14181f,100:7a2e2e&height=3">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:7a2e2e&height=3">
 
 <br>
 
