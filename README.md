@@ -10,10 +10,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Simulated-7a2e2e?style=for-the-badge&labelColor=2b2b2b&logo=comsol&logoColor=f2c9c9" />
-  <img src="https://img.shields.io/badge/CFD-COMSOL%20Multiphysics-1b3a5c?style=for-the-badge&labelColor=2b2b2b&logo=vercel&logoColor=bcd4ea" />
-  <img src="https://img.shields.io/badge/Turbulence-k--%CE%B5%20RANS-1e4620?style=for-the-badge&labelColor=2b2b2b&logo=windowsterminal&logoColor=bfe0c2" />
-  <img src="https://img.shields.io/badge/Coupling-Conjugate%20Heat%20Transfer-4a2c6d?style=for-the-badge&labelColor=2b2b2b&logo=thunderbird&logoColor=d8c6ea" />
+  <img src="https://img.shields.io/badge/Status-Simulated-7a2e2e?style=for-the-badge&labelColor=1c1c1c&logo=comsol&logoColor=f2c9c9" />
+  <img src="https://img.shields.io/badge/CFD-COMSOL%20Multiphysics-1b3a5c?style=for-the-badge&labelColor=1c1c1c&logo=vercel&logoColor=bcd4ea" />
+  <img src="https://img.shields.io/badge/Turbulence-k--%CE%B5%20RANS-1e4620?style=for-the-badge&labelColor=1c1c1c&logo=windowsterminal&logoColor=bfe0c2" />
+  <img src="https://img.shields.io/badge/Coupling-Conjugate%20Heat%20Transfer-4a2c6d?style=for-the-badge&labelColor=1c1c1c&logo=thunderbird&logoColor=d8c6ea" />
 </p>
 
 <p align="center">
