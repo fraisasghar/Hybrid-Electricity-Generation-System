@@ -120,14 +120,26 @@ The full assembly, imported from SolidWorks, was solved in COMSOL Multiphysics a
 
   <tr>
     <td align="center">
-      <img width="394" height="196" alt="Pressure" src="https://github.com/user-attachments/assets/930dd98b-304b-4823-a4e3-ac4eb497f0c7" />
+      <img width="365" height="194" alt="image" src="https://github.com/user-attachments/assets/cb68e385-199f-4ff0-b0e7-6785622d88bc" />
       <br />
       <b>Pressure</b>
     </td>
     <td align="center">
-      <img width="392" height="198" alt="Pressure Inner View" src="https://github.com/user-attachments/assets/5f1f3ef1-401b-4b5e-8c1b-a96969e0b469" />
+      <img width="371" height="199" alt="image" src="https://github.com/user-attachments/assets/d9288931-214c-4b61-9dbe-74900f1d8ddc" />
       <br />
       <b style="color:white;">Pressure Inner View</b>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img width="391" height="194" alt="image" src="https://github.com/user-attachments/assets/1d2eff2c-997e-46a6-89f3-06ad38bd95f8" />
+      <br />
+      <b>Temp & Fluid Flow</b>
+    </td>
+    <td align="center">
+      <img width="394" height="191" alt="image" src="https://github.com/user-attachments/assets/789bb199-0b87-42e9-9151-8717cf292db2" />
+      <br />
+      <b style="color:white;">Temp & Inner Fluid Flow</b>
     </td>
   </tr>
 </table>
