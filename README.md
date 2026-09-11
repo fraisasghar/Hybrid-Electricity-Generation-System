@@ -50,54 +50,103 @@ The full assembly, imported from SolidWorks, was solved in COMSOL Multiphysics a
 
 <br>
 
-## Figures
+
+
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td align="center">
+      <img width="395" height="169" alt="image" src="https://github.com/user-attachments/assets/8ec93907-c0d5-4de6-9eeb-56abdf75739a" />
+      <br />
+      <b>CAD Model</b>
+    </td>
+    <td align="center">
+      <img width="484" height="167" alt="image" src="https://github.com/user-attachments/assets/abc6853b-ed05-4055-9c75-aaadbe52b35e" />
+      <br />
+      <b style="color:white;">CAD Inner View</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img width="377" height="200" alt="image" src="https://github.com/user-attachments/assets/7c478337-4680-4b32-92bf-d21efb4777fd" />
+      <br />
+      <b>Mesh</b>
+    </td>
+    <td align="center">
+      <img width="392" height="202" alt="image" src="https://github.com/user-attachments/assets/f6483409-689c-4c4a-af5c-dafffd06d269" />
+      <br />
+      <b style="color:white;">Mesh Inner View</b>
+    </td>
+  </tr>
 
-**CAD Assembly**
-<img width="100%" alt="CAD Assembly" src="assets/cad-model.png" />
+  <tr>
+    <td align="center">
+      <img width="396" height="198" alt="image" src="https://github.com/user-attachments/assets/106f3aed-3b34-4474-90bd-6bf50b132f6e" />
+      <br />
+      <b>Temperature</b>
+    </td>
+    <td align="center">
+      <img width="365" height="199" alt="image" src="https://github.com/user-attachments/assets/76bce2f7-3b4e-4ec2-be98-6871fe2e0253" />
+      <br />
+      <b style="color:white;">Temperature Inner View</b>
+    </td>
+  </tr>
 
-</td>
-<td width="50%">
+  <tr>
+    <td align="center">
+      <img width="353" height="194" alt="image" src="https://github.com/user-attachments/assets/1bf69fea-4d3d-4a1f-b852-6f92c9b0d7d6" />
+      <br />
+      <b>Velocity</b>
+    </td>
+    <td align="center">
+      <img width="359" height="192" alt="image" src="https://github.com/user-attachments/assets/63406857-489e-4b0f-aa00-d4f8a3ddd2ad" />
+      <br />
+      <b style="color:white;">Velocity Streamline</b>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img width="365" height="191" alt="image" src="https://github.com/user-attachments/assets/c80aa756-dee7-4d5d-b582-0587ede11dd0" />
+      <br />
+      <b>Inner Fluid Velocity</b>
+    </td>
+    <td align="center">
+      <img width="368" height="197" alt="image" src="https://github.com/user-attachments/assets/9326aa31-18ca-4e27-8725-0efd0de500dd" />
+      <br />
+      <b style="color:white;">Outer Fluid Velocity</b>
+    </td>
+  </tr>
 
-**Tetrahedral Mesh with Boundary Layers**
-<img width="100%" alt="Mesh" src="assets/mesh.png" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Temperature Field**
-<img width="100%" alt="Temperature Field" src="assets/temperature-field.png" />
-
-</td>
-<td width="50%">
-
-**Velocity Streamlines**
-<img width="100%" alt="Velocity Streamlines" src="assets/velocity-streamlines.png" />
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Static Pressure Field**
-<img width="100%" alt="Pressure Field" src="assets/pressure-field.png" />
-
-</td>
-<td width="50%">
-
-**Domain and Material Breakdown**
-<img width="100%" alt="Domain Breakdown" src="assets/domain-breakdown.png" />
-
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img width="394" height="196" alt="Pressure" src="https://github.com/user-attachments/assets/930dd98b-304b-4823-a4e3-ac4eb497f0c7" />
+      <br />
+      <b>Pressure</b>
+    </td>
+    <td align="center">
+      <img width="392" height="198" alt="Pressure Inner View" src="https://github.com/user-attachments/assets/5f1f3ef1-401b-4b5e-8c1b-a96969e0b469" />
+      <br />
+      <b style="color:white;">Pressure Inner View</b>
+    </td>
+  </tr>
 </table>
 
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## How It Works
 
